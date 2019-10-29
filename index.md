@@ -1,5 +1,7 @@
-[Link](https://rosiegrant.github.io/fins-links/catherine.html)
-[Link](https://rosiegrant.github.io/fins-links/katherine-award.html)
+- [Link](https://rosiegrant.github.io/fins-links/catherine.html)
+- [Link](https://rosiegrant.github.io/fins-links/katherine-award.html)
+- [Link](https://rosiegrant.github.io/fins-links/larimar.html)
+- [Link](https://rosiegrant.github.io/fins-links/card.html)
 
 ## Welcome to GitHub Pages
 
