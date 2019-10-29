@@ -1,3 +1,9 @@
+<head><meta name="google-site-verification" content="Yyo5M4BWKUG-qNivx8J2JQrxa4MhZpeZ4Jtx-t-X-vo" />
+</head>
+
+<body>
+
+
 - [Link](https://rosiegrant.github.io/fins-links/catherine.html)
 - [Link](https://rosiegrant.github.io/fins-links/katherine-award.html)
 - [Link](https://rosiegrant.github.io/fins-links/larimar.html)
@@ -40,3 +46,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+</body>
